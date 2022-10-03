@@ -1,0 +1,17 @@
+header{
+    background-color: rgb(26,188,156);
+}
+.about{
+    background-color: rgb(26,188,156);
+}
+
+footer{
+      background-color: rgb(44,62,80);
+}
+
+@media only screen and (max-width: 768px){
+    .last {
+            margin-top: 0px;
+            padding-top: 0;
+    }
+  }
